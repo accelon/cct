@@ -7,6 +7,8 @@ Core Chinese Text in offtext format
     對齊得yijing-combined.txt    
     node split-yijing.txt  
     切分為 易，彖，象，文言 四個文件
+    node gen-yijing.js 
+    得 pdg 文件
 
 
 

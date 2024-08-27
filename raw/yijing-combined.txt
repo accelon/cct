@@ -1,4 +1,4 @@
-﻿^yb1 ䷀乾:	Qian:
+﻿^y1 ䷀乾:	Qian:
 乾：元亨，利貞。	Qian (represents) what is great and originating, penetrating, advantageous, correct and firm.
 彖傳:	Tuan Zhuan:
 大哉乾元，萬物資始，乃統天。	Vast is the 'great and originating (power)' indicated by Qian! All things owe to it their beginning: - it contains all the meaning belonging to (the name) heaven. 
@@ -133,7 +133,7 @@
 24 文言:	Qian:
 「亢」之為言也，知進而不知退，知存而不知亡，知得而不知喪。	The force of that phrase--'exceeding the proper limits'--indicates the knowing to advance but not to retire; to maintain but not to let perish to get but not to lose. 
 其唯聖人乎！知進退存亡而不失其正者，其唯聖人乎！	He only is the sage who knows to advance and to retire, to maintain and to let perish; and that without ever acting incorrectly. Yes, he only is the sage!
-^yb2 ䷁坤:	Kun:
+^y2 ䷁坤:	Kun:
 坤：元亨，利牝馬之貞。	Kun (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. 
 君子有攸往，先迷後得主，	When the superior man (here intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. 
 利西南得朋，東北喪朋。	The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. 
@@ -212,8 +212,9 @@
 猶未離其類也，故稱「血」焉。	 But still the (subject of neither line) can leave his class, and hence we have 'the blood' mentioned. 
 夫「玄黃」者、天地之雜也。	The mention of that as being (both) 'azure and yellow' indicates the mixture of heaven and earth. 
 天玄而地黃。	Heaven's (colour) is azure and earth's is yellow.
-^yb3 ䷂屯:	Zhun:
-屯：元亨，利貞，勿用有攸往，利建侯。	Zhun (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
+^y3 ䷂屯:	Zhun:
+屯：元亨，利貞，	Zhun (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. 
+勿用有攸往，利建侯。	(But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 彖傳:	Tuan Zhuan:
 屯，剛柔始交而難生，	In Zhun we have the strong (Qian) and the weak (Kun) commencing their intercourse, and difficulties arising. 
 動乎險中，大亨貞。	Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.' 
@@ -253,7 +254,7 @@
 上六：乘馬班如，泣血漣如。	The topmost SIX, divided, shows (its subject) with the horses of his chariot obliged to retreat, and weeping tears of blood in streams.
 象傳:	Xiang Zhuan:
 泣血漣如，何可長也。	'He weeps tears of blood in streams:' - how can the state (thus emblemed) continue long?
-^yb4 ䷃蒙:	Meng:
+^y4 ䷃蒙:	Meng:
 蒙：亨。	Meng (indicates that in the case which it presupposes) there will be progress and success. 
 匪我求童蒙，童蒙求我。	I do not (go and) seek the youthful and inexperienced, but he comes and seeks me. 
 初筮告，再三瀆，瀆則不告。	When he shows (the sincerity that marks) the first recourse to divination, I instruct him. If he apply a second and third time, that is troublesome; and I do not instruct the troublesome. 
@@ -297,7 +298,7 @@
 不利為寇，利禦寇。	But no advantage will come from doing him an injury. Advantage would come from warding off injury from him.
 象傳:	Xiang Zhuan:
 利用禦寇，上下順也。	'Advantage will come from warding off injury:' - (the subject of this line) above and (the ignorant) below, all do and are done to in accordance with their nature.
-^yb5 ䷄需:	Xu:
+^y5 ䷄需:	Xu:
 需：有孚，光亨，貞吉。	Xu intimates that, with the sincerity which is declared in it, there will be brilliant success. 
 利涉大川。	With firmness there will be good fortune; and it will be advantageous to cross the great stream.
 彖傳:	Tuan Zhuan:
@@ -307,7 +308,8 @@
 位乎天位，以正中也。	 this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre.
 利涉大川，往有功也。	 'It will be advantageous to go through the great stream;' - that is, going forward will be followed by meritorious achievement.
 象傳:	Xiang Zhuan:
-雲上於天，需；君子以飲食宴樂。	(The trigram for) clouds ascending over that for the sky forms Xu. The superior man, in accordance with this, eats and drinks, feasts and enjoys himself (as if there were nothing else to employ him).
+雲上於天，需；	The superior man, in accordance with this, eats and drinks, feasts and enjoys himself (as if there were nothing else to employ him).
+君子以飲食宴樂。	(The trigram for) clouds ascending over that for the sky forms Xu. 
 2 ䷄需:	Xu:
 初九：需于郊。	The first NINE, undivided, shows its subject waiting in the distant border. 
 利用恆，无咎。	It will be well for him constantly to maintain (the purpose thus shown), in which case there will be no error.
@@ -338,7 +340,7 @@
 象傳:	Xiang Zhuan:
 不速之客來，敬之終吉。	'Guests come unurged (to give their help), and if (the subject of the line) receive them respectfully, there will be good fortune in the end:' -
 雖不當位，未大失也。	 though the occupant and the place are not suited to each other, there has been no great failure (in what has been done).
-^yb6 ䷅訟:	Song:
+^y6 ䷅訟:	Song:
 訟：有孚，窒。	Song intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; 
 惕中吉。終凶。	but if he cherish an apprehensive caution, there will be good fortune, while, if he must prosecute the contention to the (bitter) end, there will be evil. 
 利見大人，不利涉大川。	It will be advantageous to see the great man; it will not be advantageous to cross the great stream.
@@ -381,7 +383,7 @@
 上九：或錫之鞶帶，終朝三褫之。	The topmost NINE, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
 象傳:	Xiang Zhuan:
 以訟受服，亦不足敬也。	'He receives the robe through his contention:' - but still be is not deserving of respect.
-^yb7 ䷆師:	Shi:
+^y7 ䷆師:	Shi:
 師：貞，丈人，吉无咎。	Shi indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
 彖傳:	Tuan Zhuan:
 師，眾也，貞正也，能以眾正，可以王矣。	(The name) Shi describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway. 
@@ -418,7 +420,7 @@
 象傳:	Xiang Zhuan:
 大君有命，以正功也。	'The great ruler delivers his charges:' - thereby he rightly apportions merit. 
 小人勿用，必亂邦也。	'Small men should not be employed:' - they are sure to throw the states into confusion.
-^yb8 ䷇比:	Bi:
+^y8 ䷇比:	Bi:
 比：吉。	Bi indicates that (under the conditions which it supposes) there is good fortune. 
 原筮元永貞，无咎。	But let (the principal party intended in it) re-examine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm. 
 不寧方來，後夫凶。	If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
@@ -458,7 +460,7 @@
 上六：比之无首，凶。	In the topmost SIX, divided, we see one seeking union and attachment without having taken the first step (to such an end). There will be evil.
 象傳:	Xiang Zhuan:
 比之无首，无所終也。	'He seeks union and attachment without taking the first (step to such an end):' - there is no possibility of a (good) issue.
-^yb9 ䷈小畜:	Xiao Xu:
+^y9 ䷈小畜:	Xiao Xu:
 小畜：亨。	Xiao Xu indicates that (under its conditions) there will be progress and success. 
 密雲不雨，自我西郊。	(We see) dense clouds, but no rain coming from our borders in the west.
 彖傳:	Tuan Zhuan:
@@ -498,7 +500,7 @@
 象傳:	Xiang Zhuan:
 既雨既處，德積載也。	'The rain has fallen and (the onward progress) is stayed:' - the power (denoted in the figure) has accumulated to the full. 
 君子征凶，有所疑也。	'If the superior man prosecute his measures, there will be evil:' - he will find himself obstructed.
-^yb10 ䷉履:	Lu:
+^y10 ䷉履:	Lu:
 履虎尾，不咥人，亨。	(Lu suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 彖傳:	Tuan Zhuan:
 履，柔履剛也。	In Lu we have (the symbol of) weakness treading on (that of) strength. 
@@ -535,7 +537,7 @@
 上九：視履考祥，其旋元吉。	The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune.
 象傳:	Xiang Zhuan:
 元吉在上，大有慶也。	'There will be great good fortune,' and that in the occupancy of the topmost line: - this is great matter for congratulation.
-^yb11 ䷊泰:	Tai:
+^y11 ䷊泰:	Tai:
 泰：小往大來，吉亨。	In Tai (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 彖傳:	Tuan Zhuan:
 泰，小往大來，吉亨。	'The little come and the great gone in Tai, and its indication that there will be good fortune with progress and success'
@@ -574,7 +576,7 @@
 自邑告命，貞吝。	(The subject of the line) may, indeed, announce his orders to the people of his own city; but however correct and firm he may be, he will have cause for regret.
 象傳:	Xiang Zhuan:
 城復于隍，其命亂也。	'The city wall returned back into the moat' shows how the (governmental) orders have (long) been in disorder.
-^yb12 ䷋否:	Pi:
+^y12 ䷋否:	Pi:
 否之匪人，不利君子貞，大往小來。	In Pi there is the want of good understanding between the (different classes of) men, and its indication is unfavourable to the firm and correct course of the superior man. We see in it the great gone and the little come.
 彖傳:	Tuan Zhuan:
 否之匪人，不利君子貞。	'The want of good understanding between the (different classes of) men in Pi, and its indication as unfavourable to the firm and correct course of the superior man; 
@@ -611,7 +613,7 @@
 上九：傾否，先否後喜。	The sixth NINE, undivided, shows the overthrow (and removal of) the condition of distress and obstruction. Before this there was that condition. Hereafter there will be joy.
 象傳:	Xiang Zhuan:
 否終則傾，何可長也。	'The distress and obstruction having reached its end, it is overthrown and removed:' - how could it be prolonged?
-^yb13 ䷌同人:	Tong Ren:
+^y13 ䷌同人:	Tong Ren:
 同人于野，亨。利涉大川，利君子貞。	Tong Ren (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 彖傳:	Tuan Zhuan:
 同人，柔得位得中，而應乎乾，曰同人。	In Tong Ren the weak (line) has the place (of influence), the central place, and responds to (the corresponding line in) Qian (above); hence comes its name of Tong Ren (or 'Union of men'). 
@@ -649,7 +651,7 @@
 上九：同人于郊，无悔。	The topmost NINE, undivided, (shows the representative of) the union of men in the suburbs. There will be no occasion for repentance.
 象傳:	Xiang Zhuan:
 同人于郊，志未得也。	'(The representative of) the union of men appears in the suburbs:' - his object has not yet been attained.
-^yb14 ䷍大有:	Da You:
+^y14 ䷍大有:	Da You:
 大有：元亨。	Da You indicates that, (under the circumstances which it implies), there will be great progress and success.
 彖傳:	Tuan Zhuan:
 大有，柔得尊位，大中而上下應之，曰大有。	In Da You the weak (line) has the place of honour, is grandly central, and (the strong lines) above and below respond to it. Hence comes its name of Da You (Having what is Great). 
@@ -682,7 +684,7 @@
 上九：自天祐之，吉无不利。	The topmost NINE, undivided, shows its subject with help accorded to him from Heaven. There will be good fortune, advantage in every respect.
 象傳:	Xiang Zhuan:
 大有上吉，自天佑也。	'The good fortune attached to the topmost line of Da You' arises from the help of Heaven.
-^yb15 ䷎謙:	Qian:
+^y15 ䷎謙:	Qian:
 謙：亨，君子有終。	Qian indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 彖傳:	Tuan Zhuan:
 謙，亨，天道下濟而光明，	Qian indicates progress and success. It is the way of heaven to send down its beneficial influences below, where they are brilliantly displayed. 
@@ -720,7 +722,7 @@
 上六：鳴謙，利用行師，征邑國。	The sixth SIX, divided, shows us humility that has made itself recognised. The subject of it will with advantage put his hosts in motion; but (he will only) punish his own towns and state.
 象傳:	Xiang Zhuan:
 鳴謙，志未得也。可用行師，征邑國也。	'His humility has made itself recognised:' - (but) all his aims have not yet been attained. He may employ the force of arms, (but only) in correcting (his own) towns and state.'
-^yb16 ䷏豫:	Yu:
+^y16 ䷏豫:	Yu:
 豫：利建侯，行師。	Yu indicates that, (in the state which it implies), feudal princes may be set up, and the hosts put in motion, with advantage.
 彖傳:	Tuan Zhuan:
 豫，剛應而志行，順以動，豫。	In Yu we see the strong (line) responded to by all the others, and the will (of him whom it represents) being carried out; and (also) docile obedience employing movement (for its purposes). (From these things comes) Yu (the Condition of harmony and satisfaction). 
@@ -755,7 +757,7 @@
 上六：冥豫，成有渝，无咎。	The topmost six, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
 象傳:	Xiang Zhuan:
 冥豫在上，何可長也。	'With darkened mind devoted to the harmony and satisfaction (of the time),' as shown in the topmost (line): - how can one in such a condition continue long?
-^yb17 ䷐隨:	Sui:
+^y17 ䷐隨:	Sui:
 隨：元亨利貞，无咎。	Sui indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 彖傳:	Tuan Zhuan:
 隨，剛來而下柔，動而說，隨。	In Sui we see the strong (trigram) come and place itself under the weak; we see (in the two) the attributes of movement and pleasure: - this gives (the idea of) Sui. 
@@ -791,7 +793,7 @@
 王用亨于西山。	(We see) the king with it presenting his offerings on the western mountain.
 象傳:	Xiang Zhuan:
 拘系之，上窮也。	'The sincerity is firmly held and clung to, as shown in the topmost line:' - (the idea of the hexagram) has reached its extreme development.
-^yb18 ䷑蠱:	Gu:
+^y18 ䷑蠱:	Gu:
 蠱：元亨，利涉大川。	Gu indicates great progress and success (to him who deals properly with the condition represented by it). 
 先甲三日，後甲三日。	There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 彖傳:	Tuan Zhuan:
@@ -828,7 +830,7 @@
 上九：不事王侯，高尚其事。	The sixth NINE, undivided, shows us one who does not serve either king or feudal lord, but in a lofty spirit prefers (to attend to) his own affairs.
 象傳:	Xiang Zhuan:
 不事王侯，志可則也。	'He does not serve either king or feudal lord:' - but his aim may be a model (to others).
-^yb19 ䷒臨:	Lin:
+^y19 ䷒臨:	Lin:
 臨：元，亨，利，貞。至于八月有凶。	Lin (indicates that under the conditions supposed in it) there will be great progress and success, while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 彖傳:	Tuan Zhuan:
 臨，剛浸而長。	In Lin (we see) the strong (lines) gradually increasing and advancing. 
@@ -863,7 +865,7 @@
 上六：敦臨，吉无咎。	The sixth SIX, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
 象傳:	Xiang Zhuan:
 敦臨之吉，志在內也。	'The good fortune consequent on the advance of honesty and generosity' is due to the will (of the subject of the line) being set on the subjects of (the first two lines of) the inner (trigram).
-^yb20 ䷓觀:	Guan:
+^y20 ䷓觀:	Guan:
 觀：盥而不薦，有孚顒若。	Guan shows (how he whom it represents should be like) the worshipper who has washed his hands, but not (yet) presented his offerings - with sincerity and an appearance of dignity (commanding reverent regard).
 彖傳:	Tuan Zhuan:
 大觀在上，順而巽，	The great Manifester occupies an upper place (in the figure), which consists of (the trigrams whose attributes are) docility and flexibility. 
@@ -898,7 +900,7 @@
 上九：觀其生，君子无咎。	The sixth NINE, undivided, shows its subject contemplating his character to see if it be indeed that of a superior man. He will not fall into error.
 象傳:	Xiang Zhuan:
 觀其生，志未平也。	'He contemplates his own character:' - he cannot even yet let his mind be at rest.
-^yb21 ䷔噬嗑:	Shi He:
+^y21 ䷔噬嗑:	Shi He:
 噬嗑：亨。利用獄。	Shi He indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 彖傳:	Tuan Zhuan:
 頤中有物，曰噬嗑，噬嗑而亨。	The existence of something between the jaws gives rise to the name Shi He (Union by means of biting through the intervening article). The Union by means of biting through the intervening article indicates 'the successful progress (denoted by the hexagram).' 
@@ -932,7 +934,7 @@
 上九：何校滅耳，凶。	The sixth NINE, undivided, shows one wearing the cangue, and deprived of his ears. There will be evil.
 象傳:	Xiang Zhuan:
 何校滅耳，聰不明也。	'He wears the cangue and is deprived of his ears:' - he hears, but will not understand.
-^yb22 ䷕賁:	Bi:
+^y22 ䷕賁:	Bi:
 賁：亨。小利有攸往。	Bi indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead).
 彖傳:	Tuan Zhuan:
 賁，亨；	(When it is said that) Bi indicates that there should be free course (in what it denotes): - 
@@ -968,7 +970,7 @@
 上九：白賁，无咎。	The sixth NINE, undivided, shows one with white as his (only) ornament. There will be no error.
 象傳:	Xiang Zhuan:
 白賁无咎，上得志也。	'The freedom from error attached to (the subject of) the topmost line, with no ornament but the (simple white),' shows how he has attained his aim.
-^yb23 ䷖剝:	Bo:
+^y23 ䷖剝:	Bo:
 剝：不利有攸往。	Bo indicates that (in the state which it symbolises) it will not be advantageous to make a movement in any direction whatever.
 彖傳:	Tuan Zhuan:
 剝，剝也，柔變剛也。	Bo denotes overthrowing or being overthrown. We see (in the figure) the weak lines (threatening to) change the (last) strong line (into one of themselves). 
@@ -1002,7 +1004,7 @@
 象傳:	Xiang Zhuan:
 君子得輿，民所載也。	'The superior man finds himself in a carriage:' - he is carried along by the people. 
 小人剝廬，終不可用也。	'The small men (by their course) overthrow their own dwellings:' - they can. never again be of use to them.
-^yb24 ䷗復:	Fu:
+^y24 ䷗復:	Fu:
 復：亨。	Fu indicates that there will be free course and progress (in what it denotes). 
 出入无疾，朋來无咎。	(The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . 
 反復其道，七日來復，利有攸往。	He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
@@ -1041,7 +1043,7 @@
 至于十年，不克征。	Even in ten years he will not be able to repair the disaster.
 象傳:	Xiang Zhuan:
 迷復之凶，反君道也。	'The evil consequent on being all astray on the subject of returning' is because the course pursued is contrary to the proper course for a ruler.
-^yb25 ䷘无妄:	Wu Wang:
+^y25 ䷘无妄:	Wu Wang:
 无妄：元亨，利貞。	Wu Wang indicates great progress and success, while there will be advantage in being firm and correct. 
 其匪正有眚，不利有攸往。	If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 彖傳:	Tuan Zhuan:
@@ -1078,7 +1080,7 @@
 上九：无妄，行有眚，无攸利。	The topmost NINE, undivided, shows its subject free from insincerity, yet sure to fall into error, if he take action. (His action) will not be advantageous in any way.
 象傳:	Xiang Zhuan:
 无妄之行，窮之災也。	'The action (in this case) of one who is free from insincerity' will occasion the calamity arising from action (when the time for it is) exhausted.
-^yb26 ䷙大畜:	Da Xu:
+^y26 ䷙大畜:	Da Xu:
 大畜：利貞，不家食吉，利涉大川。	Under the conditions of Da Xu it will be advantageous to be firm and correct. (If its subject do not seek to) enjoy his revenues in his own family (without taking service at court), there will be good fortune. It will be advantageous for him to cross the great stream.
 彖傳:	Tuan Zhuan:
 大畜，剛健篤實輝光，	In (the trigrams composing) Da Xu we have (the attributes) of the greatest strength and of substantial solidity, which emit a brilliant light; 
@@ -1115,7 +1117,7 @@
 上九：何天之衢，亨。	The sixth NINE, undivided, shows its subject (as) in command of the firmament of heaven. There will be progress.
 象傳:	Xiang Zhuan:
 何天之衢，道大行也。	'In command of the firmament of heaven:' - the way is grandly open for movement.
-^yb27 ䷚頤:	Yi:
+^y27 ䷚頤:	Yi:
 頤：貞吉。	Yi indicates that with firm correctness there will be good fortune (in what is denoted by it). 
 觀頤，自求口實。	We must look at what we are seeking to nourish, and by the exercise of our thoughts seek for the proper aliment.
 彖傳:	Tuan Zhuan:
@@ -1151,7 +1153,7 @@
 上九：由頤，厲吉，利涉大川。	The sixth NINE, undivided, shows him from whom comes the nourishing. His position is perilous, but there will be good fortune. It will be advantageous to cross the great stream.
 象傳:	Xiang Zhuan:
 由頤厲吉，大有慶也。	'The good fortune, notwithstanding the peril of his position, of him from whom comes the nourishing,' affords great cause for congratulation.
-^yb28 ䷛大過:	Da Guo:
+^y28 ䷛大過:	Da Guo:
 大過：棟橈，利有攸往，亨。	Da Guo suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 彖傳:	Tuan Zhuan:
 大過，大者過也。	Da Guo shows the great ones (= the undivided lines) in excess. 
@@ -1187,7 +1189,7 @@
 上六：過涉滅頂，凶，无咎。	The topmost SIX, divided, shows its subject with extraordinary (boldness) wading through a stream, till the water hides the crown of his head. There will be evil, but no ground for blame.
 象傳:	Xiang Zhuan:
 過涉之凶，不可咎也。	'Evil follows wading with (extraordinary) boldness (through the stream):' - but (the act) affords no ground for blame.
-^yb29 ䷜坎:	Kan:
+^y29 ䷜坎:	Kan:
 坎：習坎，有孚，維心亨，行有尚。	Kan, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 彖傳:	Tuan Zhuan:
 習坎，重險也。	Kan repeated shows us one defile succeeding another. 
@@ -1223,7 +1225,7 @@
 上六：係用徽纆，寘于叢棘，三歲不得，凶。	The topmost SIX, divided, shows its subject bound with cords of three strands or two strands, and placed in the thicket of thorns. But in three years he does not learn the course for him to pursue. There will be evil.
 象傳:	Xiang Zhuan:
 上六失道，凶三歲也。	'The sixth line, divided, shows its subject missing his (proper) course:' - 'there will be evil for three years.'
-^yb30 ䷝離:	Li:
+^y30 ䷝離:	Li:
 離：利貞，亨。畜牝牛，吉。	Li indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success. Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 彖傳:	Tuan Zhuan:
 離，麗也；	Li means being attached to. 
@@ -1259,7 +1261,7 @@
 上九：王用出征，有嘉折首，獲匪其醜，无咎。	The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
 象傳:	Xiang Zhuan:
 王用出征，以正邦也。	'The king employs him in his punitive expeditions:' - the object is to bring the regions to a correct state.
-^yb31 ䷞咸:	Xian:
+^y31 ䷞咸:	Xian:
 咸，亨，利貞，取女吉。	Xian indicates that, (on the fulfilment of the conditions implied in it), there will be free course and success. Its advantageousness will depend on the being firm and correct, (as) in marrying a young lady. There will be good fortune.
 彖傳:	Tuan Zhuan:
 咸，感也。	Xian is here used in the sense of Kan, meaning (mutually) influencing. 
@@ -1297,7 +1299,7 @@
 上六，咸其輔頰舌。	The sixth six, divided, shows one moving his jaws and tongue.
 象傳:	Xiang Zhuan:
 咸其輔頰舌，滕口說也。	'He moves his jaws and tongue:' - he (only) talks with loquacious mouth.
-^yb32 ䷟恆:	Heng:
+^y32 ䷟恆:	Heng:
 恆：亨，无咎，利貞，利有攸往。	Heng indicates successful progress and no error (in what it denotes). But the advantage will come from being firm and correct; and movement in any direction whatever will be advantageous.
 彖傳:	Tuan Zhuan:
 恆，久也。	Heng denotes long continuance. 
@@ -1338,7 +1340,7 @@
 上六：振恆，凶。	The topmost SIX, divided, shows its subject exciting himself to long continuance. There will be evil.
 象傳:	Xiang Zhuan:
 振恆在上，大无功也。	'The subject of the topmost line is exciting himself to long continuance:' - far will he be from achieving merit.
-^yb33 ䷠遯:	Dun:
+^y33 ䷠遯:	Dun:
 遯：亨，小利貞。	Dun indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 彖傳:	Tuan Zhuan:
 遯亨，遯而亨也。	'Dun indicates successful progress:' - that is, in the very retiring which Dun denotes there is such progress. 
@@ -1373,7 +1375,7 @@
 上九：肥遯，无不利。	The sixth NINE, undivided, shows its subject retiring in a noble way. It will be advantageous in every respect.
 象傳:	Xiang Zhuan:
 肥遯，无不利；无所疑也。	'He retires in a noble way, and his doing so will be advantageous in every respect:' - he who does so has no doubts about his course.
-^yb34 ䷡大壯:	Da Zhuang:
+^y34 ䷡大壯:	Da Zhuang:
 大壯：利貞。	Da Zhuang indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
 彖傳:	Tuan Zhuan:
 大壯，大者壯也。	In Da Zhuang we see that which is great becoming strong. 
@@ -1409,7 +1411,7 @@
 象傳:	Xiang Zhuan:
 不能退，不能遂，不祥也。	'He is unable either to retreat or to advance:' - this is owing to his want of care. 
 艱則吉，咎不長也。	'If he realise the difficulty (of his position), there will be good fortune:' - his error will not be prolonged.
-^yb35 ䷢晉:	Jin:
+^y35 ䷢晉:	Jin:
 晉：康侯用錫馬蕃庶，晝日三接。	In Jin we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
 彖傳:	Tuan Zhuan:
 晉，進也。	Jin denotes advancing. 
@@ -1444,7 +1446,7 @@
 上九：晉其角，維用伐邑，厲吉无咎，貞吝。	The topmost NINE, undivided, shows one advancing his horns. But he only uses them to punish the (rebellious people of his own) city. The position is perilous, but there will be good fortune. (Yet) however firm and correct he may be, there will be occasion for regret.
 象傳:	Xiang Zhuan:
 維用伐邑，道未光也。	'He uses his horns only to punish (the rebellious people of) his city:' - his course of procedure is not yet brilliant.
-^yb36 ䷣明夷:	Ming Yi:
+^y36 ䷣明夷:	Ming Yi:
 明夷：利艱貞。	Ming Yi indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness.
 彖傳:	Tuan Zhuan:
 明入地中，明夷。	(The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of Ming Yi (Brightness wounded or obscured). 
@@ -1483,7 +1485,7 @@
 象傳:	Xiang Zhuan:
 初登于天，照四國也。	'He had at first ascended to (the top of) the sky:' - he might have enlightened the four quarters of the kingdom. 
 後入于地，失則也。	'His future shall be to go into the earth:' - he has failed to fulfil the model (of a ruler).
-^yb37 ䷤家人:	Jia Ren:
+^y37 ䷤家人:	Jia Ren:
 家人：利女貞。	For (the realisation of what is taught in) Jia Ren, (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
 彖傳:	Tuan Zhuan:
 家人，女正位乎內，男正位乎外，	In Jia Ren the wife has her correct place in the inner (trigram), and the man his correct place in the outer. 
@@ -1520,7 +1522,7 @@
 上九：有孚威如，終吉。	The topmost NINE, undivided, shows its subject possessed of sincerity and arrayed in majesty. In the end there will be good fortune.
 象傳:	Xiang Zhuan:
 威如之吉，反身之謂也。	'The good fortune connected with the display of majesty' describes (the result of) the recovery of the true character.
-^yb38 ䷥睽:	Kui:
+^y38 ䷥睽:	Kui:
 睽：小事吉。	Kui indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
 彖傳:	Tuan Zhuan:
 睽，火動而上，澤動而下；	In Kui we have (the symbol of) Fire, which, when moved, tends upwards, and that of a Marsh, whose waters, when moved, tend downwards. 
@@ -1567,7 +1569,7 @@
 往遇雨則吉。	Going forward, he shall meet with (genial) rain, and there will be good fortune.
 象傳:	Xiang Zhuan:
 遇雨之吉，群疑亡也。	'The good fortune symbolised by meeting with (genial) rain' springs from the passing away of all doubts.
-^yb39 ䷦蹇:	Jian:
+^y39 ䷦蹇:	Jian:
 蹇：利西南，不利東北；利見大人，貞吉。	In (the state indicated by) Jian advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune.
 彖傳:	Tuan Zhuan:
 蹇，難也，險在前也。	Jian denotes difficulty. There is (the trigram expressive of) perilousness in front. 
@@ -1606,7 +1608,7 @@
 象傳:	Xiang Zhuan:
 往蹇來碩，志在內也。	'To advance will (only) increase the difficulties, while his remaining stationary will (be productive of) great (merit):' - his aim is to assist the (subject of the line) inside of him. 
 利見大人，以從貴也。	'It will be advantageous to meet the great man:' - by his course he follows that noble (lord of the figure).
-^yb40 ䷧解:	Jie:
+^y40 ䷧解:	Jie:
 解：利西南，无所往，其來復吉。	In (the state indicated by) Jie advantage will be found in the south-west. If no (further) operations be called for, there will be good fortune in coming back (to the old conditions). 
 有攸往，夙吉。	If some operations be called for, there will be good fortune in the early conducting of them.
 彖傳:	Tuan Zhuan:
@@ -1646,7 +1648,7 @@
 上六：公用射隼于高墉之上，獲之，无不利。	In the sixth SIX, divided, we see a feudal prince (with his bow) shooting at a falcon on the top of a high wall, and hitting it. (The effect of his action) will be in every way advantageous.
 象傳:	Xiang Zhuan:
 公用射隼，以解悖也。	'A prince with his bow shoots a falcon:' - thus he removes (the promoters of) rebellion.
-^yb41 ䷨損:	Sun:
+^y41 ䷨損:	Sun:
 損：有孚，元吉，无咎，可貞，利有攸往。	In (what is denoted by) Sun, if there be sincerity (in him who employs it), there will be great good fortune:--freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of Sun) be employed? 
 曷之用，二簋可用享。	(Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 彖傳:	Tuan Zhuan:
@@ -1684,7 +1686,7 @@
 貞吉，有攸往，得臣无家。	With firm correctness there will be good fortune. There will be advantage in every movement that shall be made. He will find ministers more than can be counted by their clans.
 象傳:	Xiang Zhuan:
 弗損益之，大得志也。	'He gives increase to others without taking from what is his own:' - he obtains his wish on a grand scale.
-^yb42 ䷩益:	Yi:
+^y42 ䷩益:	Yi:
 益：利有攸往，利涉大川。	Yi indicates that (in the state which it denotes) there will be advantage in every movement which shall be undertaken, that it will be advantageous (even) to cross the great stream.
 彖傳:	Tuan Zhuan:
 益，損上益下，	In Yi we see the upper (trigram) diminished, and the lower added to. 
@@ -1728,7 +1730,7 @@
 象傳:	Xiang Zhuan:
 莫益之，偏辭也。	'To his increase none will contribute:' - this expresses but half the result. 
 或擊之，自外來也。	'Many will seek to assail him:' - they will come from beyond (his immediate circle) to do so.
-^yb43 ䷪夬:	Guai:
+^y43 ䷪夬:	Guai:
 夬：揚于王庭，孚號，有厲，	Guai requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). 
 告自邑，不利即戎，	He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. 
 利有攸往。	(In this way) there will be advantage in whatever he shall go forward to.
@@ -1769,7 +1771,7 @@
 上六：无號，終有凶。	The sixth SIX, divided, shows its subject without any (helpers) on whom to call. His end will be evil.
 象傳:	Xiang Zhuan:
 无號之凶，終不可長也。	'There is the misery of having none on whom to call:' - the end will be that he cannot continue any longer.
-^yb44 ䷫姤:	Gou:
+^y44 ䷫姤:	Gou:
 姤：女壯，勿用取女。	Gou shows a female who is bold and strong. It will not be good to marry (such) a female.
 彖傳:	Tuan Zhuan:
 姤，遇也，柔遇剛也。	Gou has the significance of unexpectedly coming on. (We see in it) the weak (line) coming unexpectedly on the strong ones. 
@@ -1804,7 +1806,7 @@
 上九：姤其角，吝，无咎。	The sixth NINE, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
 象傳:	Xiang Zhuan:
 姤其角，上窮吝也。	'He receives others on his horns:' - he is exhausted at his greatest height, and there will be cause for regret.
-^yb45 ䷬萃:	Cui:
+^y45 ䷬萃:	Cui:
 萃：亨。王假有廟，	In (the state denoted by) Cui, the king will repair to his ancestral temple. 
 利見大人，亨，利貞。	It will be advantageous (also) to meet with the great man; and then there will be progress and success, though the advantage must come through firm correctness. 
 用大牲吉，利有攸往。	The use of great victims will conduce to good fortune; and in whatever direction movement is made, it will be advantageous.
@@ -1846,7 +1848,7 @@
 上六：齎咨涕洟，无咎。	The topmost SIX, divided, shows its subject sighing and weeping; but there will be no error.
 象傳:	Xiang Zhuan:
 齎咨涕洟，未安上也。	'He sighs and weeps:' - he does not yet rest in his topmost position.
-^yb46 ䷭升:	Sheng:
+^y46 ䷭升:	Sheng:
 升：元亨，	Sheng indicates that (under its conditions) there will be great progress and success. 
 用見大人，勿恤，南征吉。	Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.
 彖傳:	Tuan Zhuan:
@@ -1881,7 +1883,7 @@
 上六：冥升，利于不息之貞。	The sixth six, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
 象傳:	Xiang Zhuan:
 冥升在上，消不富也。	'He blindly advances upwards,' and is in the highest place: - but there is decay in store for him, and he will not (preserve) his riches.
-^yb47 ䷮困:	Kun:
+^y47 ䷮困:	Kun:
 困：亨，	In (the condition denoted by) Kun there may (yet be) progress and success. 
 貞，大人吉，无咎，有言不信。	For the firm and correct, the (really) great man, there will be good fortune. He will fall into no error. If he make speeches, his words cannot be made good.
 彖傳:	Tuan Zhuan:
@@ -1929,7 +1931,7 @@
 象傳:	Xiang Zhuan:
 困于葛藟，未當也。	'He is straitened as if bound with creepers: (his spirit and action) are unsuitable. 
 動悔，有悔吉，行也。	'(He says), "If I move, I shall repent of it." And he does repent (of former errors), which leads to good fortune:' - so he (now) goes on.
-^yb48 ䷯井:	Jing:
+^y48 ䷯井:	Jing:
 井：改邑不改井，	(Looking at) Jing, (we think of) how (the site of) a town may be changed, while (the fashion of) its wells undergoes no change.
 无喪无得，往來井井。	 (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. 
 汔至，亦未繘井，羸其瓶，凶。	If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
@@ -1970,7 +1972,7 @@
 上六：井收勿幕，有孚元吉。	The topmost SIX, divided, shows (the water from) the well brought to the top, which is not allowed to be covered. This suggests the idea of sincerity. There will be great good fortune.
 象傳:	Xiang Zhuan:
 元吉在上，大成也。	'The great good fortune' at the topmost place indicates the grand accomplishment (of the idea in the hexagram).
-^yb49 ䷰革:	Ge:
+^y49 ䷰革:	Ge:
 革：巳日乃孚，	(What takes place as indicated by) Ge is believed in only after it has been accomplished. 
 元亨利貞，悔亡。	There will be great progress and success. Advantage will come from being firm and correct. (In that case) occasion for repentance will disappear.
 彖傳:	Tuan Zhuan:
@@ -2007,7 +2009,7 @@
 上六：君子豹變，小人革面，征凶，居貞吉。	The sixth SIX, divided, shows the superior man producing his changes as the leopard (does when he) changes (his spots), while small men change their faces (and show their obedience). To go forward (now) would lead to evil, but there will be good fortune in abiding firm and correct.
 象傳:	Xiang Zhuan:
 君子豹變，其文蔚也。小人革面，順以從君也。	'The superior man produces his changes as the leopard does when he changes his spots:' - their beauty becomes more elegant. 'Small men change their faces:' - they show themselves prepared to follow their ruler.
-^yb50 ䷱鼎:	Ding:
+^y50 ䷱鼎:	Ding:
 鼎：元吉，亨。	Ding gives the intimation of great progress and success.
 彖傳:	Tuan Zhuan:
 鼎，象也。以木巽火，亨飪也。	In Ding we have (symbolically) the figure of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cooking. 
@@ -2047,7 +2049,7 @@
 上九：鼎玉鉉，大吉，无不利。	The sixth NINE, undivided, shows the caldron with rings of jade. There will be great good fortune, and all action taken will be in every way advantageous.
 象傳:	Xiang Zhuan:
 玉鉉在上，剛柔節也。	'The rings of jade' are at the very top: - the strong and the weak meet in their due proportions.
-^yb51 ䷲震:	Zhen:
+^y51 ䷲震:	Zhen:
 震：亨。	Zhen gives the intimation of ease and development. 
 震來虩虩，笑言啞啞。	When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. 
 震驚百里，不喪匕鬯。	When the movement (like a crash of thunder) terrifies all within a hundred Li, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
@@ -2089,7 +2091,7 @@
 象傳:	Xiang Zhuan:
 震索索，中未得也。	'Amid the startling movements he is in breathless dismay:' - he has not found out (the course of) the due mean. 
 雖凶无咎，畏鄰戒也。	'Though evil (threatens), he will not fall into error:' - he is afraid of being warned by his neighbours.
-^yb52 ䷳艮:	Gen:
+^y52 ䷳艮:	Gen:
 艮：艮其背，不獲其身，行其庭，不見其人，无咎。	When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it,--there will be no error.
 彖傳:	Tuan Zhuan:
 艮，止也。時止則止，時行則行，	Gen denotes stopping or resting; - resting when it is the time to rest, and acting when it is the time to act. 
@@ -2125,7 +2127,7 @@
 上九：敦艮，吉。	The sixth NINE, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune.
 象傳:	Xiang Zhuan:
 敦艮之吉，以厚終也。	'There is good fortune through his devotedly maintaining his restfulness:' - to the end he shows himself generous and good.
-^yb53 ䷴漸:	Jian:
+^y53 ䷴漸:	Jian:
 漸：女歸吉，利貞。	Jian suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 彖傳:	Tuan Zhuan:
 漸之進也，女歸吉也。	The advance indicated by Jian is (like) the marrying of a young lady which is attended by good fortune. 
@@ -2166,7 +2168,7 @@
 上九：鴻漸于陸，其羽可用為儀，吉。	The sixth NINE, undivided, shows the geese gradually advanced to the large heights (beyond). Their feathers can be used as ornaments. There will be good fortune.
 象傳:	Xiang Zhuan:
 其羽可用為儀，吉；不可亂也。	'Their feathers can be used as ornaments. There will be good fortune:' - (the object and character of the subject of the line) cannot be disturbed.
-^yb54 ䷵歸妹:	Gui Mei:
+^y54 ䷵歸妹:	Gui Mei:
 歸妹：征凶，无攸利。	Gui Mei indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 彖傳:	Tuan Zhuan:
 歸妹，天地之大義也。	By Gui Mei (the marrying away of a younger sister) the great and righteous relation between heaven and earth (is suggested to us). 
@@ -2207,7 +2209,7 @@
 士刲羊无血，无攸利。	but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
 象傳:	Xiang Zhuan:
 上六无實，承虛筐也。	'(What is said in) the sixth SIX, (divided),about there being nothing in the basket' shows that the subject of it is carrying an empty basket.
-^yb55 ䷶豐:	Feng:
+^y55 ䷶豐:	Feng:
 豐：亨，	Feng intimates progress and development. 
 王假之，勿憂，宜日中。	When a king has reached the point (which the name denotes) there is no occasion to be anxious (through fear of a change). Let him be as the sun at noon.
 彖傳:	Tuan Zhuan:
@@ -2252,7 +2254,7 @@
 象傳:	Xiang Zhuan:
 豐其屋，天際翔也。	'He has made his house large:' - he soars (in his pride) to the heavens. 
 闚其戶，闃其无人，自藏也。	'He looks at his door, which is still, with no one about it:' - he (only) keeps himself withdrawn from all others.
-^yb56 ䷷旅:	Lu:
+^y56 ䷷旅:	Lu:
 旅：小亨，旅貞吉。	Lu intimates that (in the condition which it denotes) there may be some little attainment and progress. If the stranger or traveller be firm and correct as he ought to be, there will be good fortune.
 彖傳:	Tuan Zhuan:
 旅，小亨，柔得中乎外，而順乎剛，	'Lu indicates that there may be some small attainment and progress:' - the weak (line) occupies the central place in the outer (trigram), and is obedient to the strong (lines on either side of it). 
@@ -2289,7 +2291,7 @@
 喪牛于易，凶。	He has lost his ox(-like docility) too readily and easily. There will be evil.
 象傳:	Xiang Zhuan:
 以旅在上，其義焚也。喪牛于易，終莫之聞也。	'Considering that the stranger is here at the very height (of distinction),' with the spirit that possesses him, it is right he (should be emblemed by a bird) burning (its nest). 'He loses his ox(-like docility) too readily and easily:' - to the end he would not listen to (the truth about the course to be pursued).
-^yb57 ䷸巽:	Xun:
+^y57 ䷸巽:	Xun:
 巽：小亨，利攸往，利見大人。	Xun intimates that (under the conditions which it denotes) there will be some little attainment and progress. There will be advantage in movement onward in whatever direction. It will be advantageous (also) to see the great man.
 彖傳:	Tuan Zhuan:
 重巽以申命，剛巽乎中正而志行。	The double Xun shows how, in accordance with it, (governmental) orders are reiterated. (We see that) the strong (fifth line) has penetrated into the central and correct place, and the will (of its subject) is being carried into effect; 
@@ -2326,7 +2328,7 @@
 象傳:	Xiang Zhuan:
 巽在床下，上窮也。	'The representative of penetration is beneath a couch:' - though occupying the topmost place, his powers are exhausted. 
 喪其資斧，正乎凶也。	'He has lost the axe with which he executed his decisions:' - though he try to be correct, there will be evil.
-^yb58 ䷹兌:	Dui:
+^y58 ䷹兌:	Dui:
 兌：亨，利貞。	Dui intimates that (under its conditions) there will be progress and attainment. (But) it will be advantageous to be firm and correct.
 彖傳:	Tuan Zhuan:
 兌，說也。	Dui has the meaning of pleased satisfaction. 
@@ -2362,7 +2364,7 @@
 上六：引兌。	The topmost SIX, divided, shows the pleasure of its subject in leading and attracting others.
 象傳:	Xiang Zhuan:
 上六引兌，未光也。	'The topmost SIX, (divided), shows the pleasure (of its subject) in leading and attracting others:' - his (virtue) is not yet brilliant.
-^yb59 ䷺渙:	Huan:
+^y59 ䷺渙:	Huan:
 渙：亨。	Huan intimates that (under its conditions) there will be progress and success. 
 王假有廟，利涉大川，利貞。	The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
 彖傳:	Tuan Zhuan:
@@ -2398,7 +2400,7 @@
 上九：渙其血，去逖出，无咎。	The topmost NINE, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 象傳:	Xiang Zhuan:
 渙其血，遠害也。	'His bloody wounds are gone:' - he is far removed from the danger of injury.
-^yb60 ䷻節:	Jie:
+^y60 ䷻節:	Jie:
 節：亨。苦節，不可貞。	Jie intimates that (under its conditions) there will be progress and attainment. (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 彖傳:	Tuan Zhuan:
 節，亨，剛柔分，而剛得中。	'Jie intimates progress and attainment:' - the strong and weak (lines) are equally divided, and the strong lines occupy the central places. 
@@ -2433,7 +2435,7 @@
 上六：苦節，貞凶，悔亡。	The topmost SIX, divided, shows its subject enacting regulations severe and difficult. Even with firmness and correctness there will be evil. But though there will be cause for repentance, it will (by and by) disappear.
 象傳:	Xiang Zhuan:
 苦節貞凶，其道窮也。	'The regulations are severe and difficult. Even with firm correctness there will be evil:' - the course (indicated by the hexagram) is come to an end.
-^yb61 ䷼中孚:	Zhong Fu:
+^y61 ䷼中孚:	Zhong Fu:
 中孚：豚魚吉，利涉大川，利貞。	Zhong Fu (moves even) pigs and fish, and leads to good fortune. There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
 彖傳:	Tuan Zhuan:
 中孚，柔在內而剛得中。	In Zhong Fu we have the (two) weak lines in the innermost part (of the figure), and strong lines occupying the central places (in the trigrams). 
@@ -2470,7 +2472,7 @@
 上九：翰音登于天，貞凶。	The topmost NINE, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil.
 象傳:	Xiang Zhuan:
 翰音登于天，何可長也。	'Chanticleer (tries to) mount to heaven:' - but how can (such an effort) continue long?
-^yb62 ䷽小過:	Xiao Guo:
+^y62 ䷽小過:	Xiao Guo:
 小過：亨，利貞，可小事，不可大事。	Xiao Guo indicates that (in the circumstances which it implies) there will be progress and attainment. But it will be advantageous to be firm and correct. (What the name denotes) may be done in small affairs, but not in great affairs. 
 飛鳥遺之音，不宜上，宜下，大吉。	(It is like) the notes that come down from a bird on the wing - to descend is better than to ascend. There will (in this way) be great good fortune.
 彖傳:	Tuan Zhuan:
@@ -2511,7 +2513,7 @@
 飛鳥離之，凶，是謂災眚。	(It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
 象傳:	Xiang Zhuan:
 弗遇過之，已亢也。	'He does not meet the exigency (of his situation), and exceeds (his proper course):' - (the position indicates) the habit of domineering.
-^yb63 ䷾既濟:	Ji Ji:
+^y63 ䷾既濟:	Ji Ji:
 既濟：亨，小利貞，初吉終亂。	Ji Ji intimates progress and success in small matters. There will be advantage in being firm and correct. There has been good fortune in the beginning; there may be disorder in the end.
 彖傳:	Tuan Zhuan:
 既濟，亨，小者亨也。	'Ji Ji intimates progress and success:' - in small matters, that is, there will be that progress and success. 
@@ -2547,7 +2549,7 @@
 上六：濡其首，厲。	The topmost SIX, divided, shows its subject with (even) his head immersed. The position is perilous.
 象傳:	Xiang Zhuan:
 濡其首厲，何可久也。	'His head is immersed; the position is perilous:' - how could such a state continue long?
-^yb64 ䷿未濟:	Wei Ji:
+^y64 ䷿未濟:	Wei Ji:
 未濟：亨，	Wei Ji intimates progress and success (in the circumstances which it implies). 
 小狐汔濟，濡其尾，无攸利。	(We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.
 彖傳:	Tuan Zhuan:

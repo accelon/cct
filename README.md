@@ -10,5 +10,3 @@ Core Chinese Text in offtext format
     node gen-yijing.js 
     得 pdg 文件
 
-
-

@@ -1,0 +1,9 @@
+node_modules/
+out/
+raw/
+off/
+src/legacy/
+*.adb
+*.zip
+.local/
+.git.legacy-*/

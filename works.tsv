@@ -1,0 +1,17 @@
+work_id	adb	book	title	aliases	anchor	status	notes
+yijing	13j	周易	易	易|周易|易經	seg	planned	semantic segment; 章/乾
+shangshu	13j	尚書	尚書	尚書|書經	seg	planned	章/虞書→節/堯典；leaf 堯典
+shijing	13j	毛詩	詩經	詩經|毛詩|詩	seg	planned	章/國風→節/周南→項/關雎；leaf 關雎
+zhouli	13j	周禮	周禮	周禮	seg	planned	章/天官冢宰→節/大宰
+yili	13j	儀禮	儀禮	儀禮	seg	planned	章/士冠禮
+liji	13j	禮記	禮記	禮記	seg	planned	章/曲禮上
+zuozhuan	13j	左傳	春秋左傳	春秋左傳|左傳	seg	planned	章/隱公→節/經元年；撞名才加祖先
+gongyang	13j	公羊傳	春秋公羊傳	春秋公羊傳|公羊傳	seg	planned	章/隱公→節/元年
+guliang	13j	穀梁傳	春秋穀梁傳	春秋穀梁傳|穀梁傳	seg	planned	章/隱公→節/元年
+lunyu	13j	論語	論語	論語	seg	planned	章/學而
+xiaojing	13j	孝經	孝經	孝經	seg	planned	章/開宗明義章
+erya	13j	爾雅	爾雅	爾雅	seg	planned	章/釋詁→節/釋詁上
+mengzi	13j	孟子	孟子	孟子	seg	planned	章/梁惠王上
+shuowen	swjz	—	說文解字注	說文解字注|說文|段注	char	planned	章節版；char:w…
+shuowen	swjzz	—	說文解字注	說文解字注|說文|段注	char	planned	卷字版；char:w…
+shuowen	swjzzp	—	說文解字注	說文解字注|說文|段注	char	planned	P 版；char:w…

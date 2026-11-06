@@ -1,0 +1,8 @@
+{
+  "name": "cct",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Chinese Citation Texts — build multiple citation-source adb",
+  "type": "module",
+  "scripts": {}
+}

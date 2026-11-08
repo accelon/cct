@@ -1,0 +1,26 @@
+=== 素問 另版 黄帝内經素問 (四庫全書本)/卷01 前200字 ===
+'<!--\n\n請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。\n\n\n-->{{SKQS header|title=黄帝内經素問|section=卷一|prev=|prev_link=|next=卷二|next_link=卷02|type=子}}<onlyinclude><poem>\u3000\u3000欽定四庫全書\n\u3000\u3000黄帝内經素問卷一\u3000\u3000\u3000唐\u3000王冰\u3000次注\n\u3000\u3000宋' 
+  scan? False
+
+=== 集韻 typed 候選 (search) ===
+   集韻 (四庫全書本)
+   集韻 (四庫全書本)/提要
+   五音集韻 (四庫全書本)
+   集韻 (四庫全書本)/全覽
+   韻畧易通
+   集韻 (四庫全書本)/卷01
+   洪武正韻
+   欽定叶韻彚輯 (四庫全書本)/卷28
+   古今韻會舉要 (四庫全書本)/卷10
+   御定韻府拾遺 (四庫全書本)/卷004下
+
+=== 爾雅 Page: OCR 可行性 ===
+Index 前250字: '{{:MediaWiki:Proofreadpage_index_template\n|Type=book\n|Title=爾雅\n|Language=zh-hant\n|Author=郭璞\n|Translator=\n|Editor=\n|Year=\n|Publisher=\n|Address=\n|Key=\n|Source=djvu\n|Image=[[文件:Sibu Congkan0042-郭璞-爾雅-1-1.djvu|thumb|《爾雅》，晉 郭璞 注 闕名撰音釋 景常熟瞿氏鐵琴銅劍樓藏宋刊本]]\n|Pr'
+Traceback (most recent call last):
+  File "C:\temp\probe_scanfix.py", line 41, in <module>
+    pages=list_all('Page:Sibu Congkan0042-郭璞-爾雅-1-1.djvu/')
+          ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\temp\probe_scanfix.py", line 24, in list_all
+    out+=[x['title'] for x in r['query']['allpages']]
+                              ~^^^^^^^^^
+KeyError: 'query'

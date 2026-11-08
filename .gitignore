@@ -7,3 +7,4 @@ src/legacy/
 *.zip
 .local/
 .git.legacy-*/
+.workbuddy/

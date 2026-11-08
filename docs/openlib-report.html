@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>openlib ↔ hydzd 引文字元級鏈結報告</title>
+<style>
+:root{
+  --bg:#f7f7f8; --panel:#fff; --text:#1c1c1e; --sub:#5b5b60; --cap:#8a8a8f;
+  --line:#e3e3e6; --line2:#eeeeef;
+  --purple:#7b61ff; --teal:#12a5a0; --orange:#e08a2e; --pink:#d9548c; --blue:#3a7afe; --yellow:#c8a415;
+  --ok:#1f9254; --warn:#b7791f; --err:#c0392b;
+  --okbg:#e9f6ee; --warnbg:#fdf3e2; --errbg:#fbeceb;
+}
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#141416; --panel:#1c1c1f; --text:#ececee; --sub:#a6a6ac; --cap:#7c7c84;
+    --line:#2c2c31; --line2:#242428; --ok:#54c88a; --warn:#e0aa5e; --err:#e57b74;
+    --okbg:#16281e; --warnbg:#2a2214; --errbg:#2b1a1a; }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font:15px/1.6 -apple-system,"Segoe UI","Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;}
+.wrap{max-width:1060px;margin:0 auto;padding:26px 20px 56px}
+h1{font-size:25px;font-weight:600;margin:0 0 6px}
+h2{font-size:16.5px;font-weight:600;margin:0 0 2px}
+.meta{font-size:12.5px;color:var(--sub);margin-bottom:20px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:17px 19px;margin-bottom:14px}
+.card > .d{font-size:12.5px;color:var(--sub);margin:2px 0 13px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+@media (max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}.two{grid-template-columns:1fr!important}}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 15px}
+.kpi .l{font-size:12px;color:var(--sub)}
+.kpi .v{font-size:22px;font-weight:600;color:var(--purple);margin-top:3px;line-height:1.2}
+.kpi .n{font-size:11px;color:var(--cap);margin-top:2px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:6px 9px;border-bottom:1px solid var(--line2);vertical-align:top}
+th{color:var(--sub);font-weight:500;font-size:12px}
+tr:last-child td{border-bottom:none}
+.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12.5px}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.stack{display:flex;height:26px;border-radius:4px;overflow:hidden;background:var(--line2)}
+.stack span{display:block;height:100%;min-width:2px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:13px}
+.chip{font-size:11.5px;padding:3px 9px;border-radius:4px;background:var(--line2);color:var(--sub);border:1px solid var(--line)}
+.chip.ok{background:var(--okbg);color:var(--ok);border-color:transparent}
+.chip.warn{background:var(--warnbg);color:var(--warn);border-color:transparent}
+.chip.err{background:var(--errbg);color:var(--err);border-color:transparent}
+ul.list{margin:0;padding-left:19px;font-size:13.5px}
+ul.list li{margin-bottom:7px}
+.cbox{position:relative;height:210px;width:100%}
+.cbox canvas{display:block;width:100%!important;height:100%!important}
+.tag{display:inline-block;font-size:11px;font-weight:600;padding:2px 7px;border-radius:4px}
+.t1{background:var(--purple);color:#fff}.t2{background:var(--teal);color:#fff}.t3{background:var(--orange);color:#fff}
+.foot{font-size:11.5px;color:var(--cap);margin-top:20px;line-height:1.7}
+hr.sp{border:none;border-top:1px solid var(--line);margin:13px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>openlib ↔ hydzd 引文字元級鏈結報告</h1>
+<div class="meta">
+  657 本小說（開文庫）×《漢語大字典》書證　·　交付檔 <span class="mono">D:\accelon3\openlib.adb</span>　·　
+  394,163,946 B　·　sha256 <span class="mono">b4ff001ba2ff…</span>　·　dbname <span class="mono">openlib</span>　·　2026-11-07
+</div>
+
+<div class="kpis">
+  <div class="kpi"><div class="l">連結筆數</div><div class="v">7,920</div><div class="n">三級合計</div></div>
+  <div class="kpi"><div class="l">覆蓋小說</div><div class="v">128 本</div><div class="n">庫內共 657 本</div></div>
+  <div class="kpi"><div class="l">hydzd 字頭</div><div class="v">4,038</div><div class="n">全庫 82,280 條</div></div>
+  <div class="kpi"><div class="l">驗收</div><div class="v">4 / 4</div><div class="n">自交付檔重算</div></div>
+</div>
+
+<div class="card">
+  <h2>238,890 條書證的最後去向</h2>
+  <div class="d">六類加總＝全數，無遺漏。跨度極大（53% 對 0.003%），所以「百分比堆疊條」看結構、「對數長條」看漏斗，不用線性寬度。</div>
+  <div class="stack" title="238,890 條書證去向">
+    <span style="width:94.56%;background:var(--err)" title="書名未配 225,888"></span>
+    <span style="width:1.47%;background:var(--yellow)" title="引文不足 2 字 3,502"></span>
+    <span style="width:0.65%;background:var(--warn)" title="搜不到 1,548"></span>
+    <span style="width:3.32%;background:var(--purple)" title="成為連結 7,920"></span>
+    <span style="width:0.01%;background:var(--cap)" title="多命中 26"></span>
+    <span style="width:0.01%;background:var(--cap)" title="含糊被擋 6"></span>
+  </div>
+  <table>
+    <tr><th>去向</th><th class="num">筆數</th><th class="num">佔全數</th><th>說明</th></tr>
+    <tr><td>書名未配</td><td class="num">225,888</td><td class="num">94.56%</td><td>韻書／字書／經史（廣韻 20,590、集韻 15,297、説文 14,618…），屬 <span class="mono">jing・swjz・swjzz</span> 那條邊</td></tr>
+    <tr><td>成為連結</td><td class="num">7,920</td><td class="num">3.32%</td><td>三級合計，全部可雙向解析</td></tr>
+    <tr><td>引文不足 2 字</td><td class="num">3,502</td><td class="num">1.47%</td><td>單字引文（如「‘阿’」），無定位意義 → 不鏈</td></tr>
+    <tr><td>可比對但搜不到</td><td class="num">1,548</td><td class="num">0.65%</td><td>80% 門檻之下的版本異文／類書式改寫</td></tr>
+    <tr><td>同書多處命中</td><td class="num">26</td><td class="num">0.011%</td><td>無法判定該鏈哪一頁，不硬鏈</td></tr>
+    <tr><td>容忍級含糊被擋</td><td class="num">6</td><td class="num">0.003%</td><td>最佳與次佳差 &lt;0.05，寧可不給</td></tr>
+  </table>
+  <div class="cbox" style="height:170px;margin-top:14px"><canvas id="funnel"></canvas></div>
+  <div class="chips">
+    <span class="chip">書名之所以配得上，靠三級：①同名 6,215　②切「書名‧篇名」2,480　③別名表 815（12 條）</span>
+    <span class="chip ok">128 本有連結／404 本為空（字典未引或引不到）</span>
+  </div>
+</div>
+
+<div class="two">
+  <div class="card">
+    <h2>三級證據，各自可過濾</h2>
+    <div class="d"><span class="tag t1">cite</span> 100／90　<span class="tag t2">cite-var</span> 80／75　<span class="tag t3">cite-fuzzy</span> 實際比例</div>
+    <div class="cbox"><canvas id="tiers"></canvas></div>
+    <div class="chips">
+      <span class="chip">逐字級 4,750（60.0%）</span>
+      <span class="chip">語義異體級 1,023（12.9%）</span>
+      <span class="chip">80% 容忍級 2,147（27.1%）</span>
+      <span class="chip ok">kind 欄寫進 xout，要只留逐字級不需重跑</span>
+    </div>
+  </div>
+  <div class="card">
+    <h2>第三級的相似度分布（2,147 條）</h2>
+    <div class="d">門檻 80%，實際平均 <b>91.4%</b>；主力在 92–96% 高分段，不是壓線過關</div>
+    <div class="cbox"><canvas id="scores"></canvas></div>
+    <div class="chips">
+      <span class="chip">8–10 字 254／11–16 字 717／17–26 字 820／27 字以上 356</span>
+      <span class="chip">各桶最低分皆 80%（無低於門檻者）</span>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>引文長度分布：把「短引文也鏈」這條規則講清楚</h2>
+  <div class="d">原規則「&lt;8 字一律不鏈」攔掉了 102,607 條。這道門檻本是為防<b>模糊比對</b>的噪聲，套到<b>精確命中</b>上是我的錯誤——已改成：精確級（①②）≥2 字即鏈，容忍級（③）仍要 ≥8 字（5 個字的 80% 沒有意義）。放寬後多出的正是這 309 條。</div>
+  <table>
+    <tr><th>引文長度</th><th class="num">連結數</th><th>性質與例子（實抽）</th></tr>
+    <tr><td>2–4 字</td><td class="num">34</td><td>單字條目的書證片段：〈趕〉『趕熱好喫。』bk010、〈扃〉『扃鍵如新。』bk090、〈砥〉『石砥中流。』bk185</td></tr>
+    <tr><td>5–7 字</td><td class="num">275</td><td>〈榼〉『銀粉榼成對。』bk322、〈汗〉『卿面何以汗？』bk132、〈噯〉『噴雲噯霧鬼神愁。』bk014</td></tr>
+    <tr><td>8–15 字</td><td class="num">3,799</td><td>主力之一：短句引用，逐字或 ±2 位移對齊</td></tr>
+    <tr><td>16–30 字</td><td class="num">3,315</td><td>主力之二：完整句子</td></tr>
+    <tr><td>31 字以上</td><td class="num">497</td><td>長段引用，誤配風險最低</td></tr>
+  </table>
+  <div class="chips">
+    <span class="chip warn">短引文的證據力不同於長句：長度寫在 xout 第 7 欄，runtime 可依此決定要不要顯示 2–4 字那 34 條</span>
+    <span class="chip">全部短連結明細：<span class="mono">out/short-links.txt</span></span>
+  </div>
+</div>
+
+<div class="card">
+  <h2>書證最多的前 20 本小說</h2>
+  <div class="d">漢語大字典引用該書、且成功落到章頁的次數（三級合計）</div>
+  <table>
+    <tr><th>#</th><th>書</th><th class="num">連結</th><th>#</th><th>書</th><th class="num">連結</th></tr>
+    <tr><td class="num">1</td><td>紅樓夢 <span class="mono">bk006</span></td><td class="num">1,363</td><td class="num">11</td><td>清稗類鈔 <span class="mono">bk322</span></td><td class="num">238</td></tr>
+    <tr><td class="num">2</td><td>水滸全傳 <span class="mono">bk019</span></td><td class="num">791</td><td class="num">12</td><td>警世通言 <span class="mono">bk100</span></td><td class="num">188</td></tr>
+    <tr><td class="num">3</td><td>儒林外史 <span class="mono">bk010</span></td><td class="num">622</td><td class="num">13</td><td>老殘遊記 <span class="mono">bk039</span></td><td class="num">174</td></tr>
+    <tr><td class="num">4</td><td>西遊記 <span class="mono">bk014</span></td><td class="num">525</td><td class="num">14</td><td>鏡花緣 <span class="mono">bk086</span></td><td class="num">174</td></tr>
+    <tr><td class="num">5</td><td>徐霞客遊記 <span class="mono">bk185</span></td><td class="num">485</td><td class="num">15</td><td>喻世明言 <span class="mono">bk093</span></td><td class="num">119</td></tr>
+    <tr><td class="num">6</td><td>聊齋誌異 <span class="mono">bk090</span></td><td class="num">435</td><td class="num">16</td><td>醒世恆言 <span class="mono">bk096</span></td><td class="num">105</td></tr>
+    <tr><td class="num">7</td><td>世說新語 <span class="mono">bk132</span></td><td class="num">433</td><td class="num">17</td><td>清平山堂話本 <span class="mono">bk128</span></td><td class="num">95</td></tr>
+    <tr><td class="num">8</td><td>兒女英雄傳 <span class="mono">bk087</span></td><td class="num">257</td><td class="num">18</td><td>二十年目睹之怪現狀 <span class="mono">bk140</span></td><td class="num">89</td></tr>
+    <tr><td class="num">9</td><td>三國演義 <span class="mono">bk012</span></td><td class="num">255</td><td class="num">19</td><td>文明小史 <span class="mono">bk231</span></td><td class="num">88</td></tr>
+    <tr><td class="num">10</td><td>太平廣記 <span class="mono">bk588</span></td><td class="num">252</td><td class="num">20</td><td>封神演義 <span class="mono">bk017</span></td><td class="num">79</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h2>本輪關鍵發現：Unihan 的等價類裡有髒資料</h2>
+  <div class="d">差字對統計冒出 <span class="mono">緑→氯 31 次</span>。先懷疑 n1 表壞了——查實不是（29 個可疑字全部折到自己）；真正原因是 <span class="mono">kSemanticVariant</span> 的語意為「某些語境同義」，不等於可互換。</div>
+  <table>
+    <tr><th style="width:66px">剔除字</th><th style="width:104px">原本被併進</th><th>為什麼是錯的</th><th>剔除後該差字對變成</th></tr>
+    <tr><td class="mono">氯</td><td>綠 的同类</td><td>氯是近代化學用字，只因同「录」聲旁而被收進同一類</td><td class="mono">緑 → 綠（31 次，正經異體）</td></tr>
+    <tr><td class="mono">嶩</td><td>的 的同类</td><td>與「的」無互換關係</td><td class="mono">得 → 旳</td></tr>
+    <tr><td class="mono">傌</td><td>罵 的同类</td><td>罕用字，非異體</td><td class="mono">駡 → 罵</td></tr>
+    <tr><td class="mono">螫</td><td>著／着 的同类</td><td>「毒蟲螫人」不能與「著」互換；但 著/着 本身必須留</td><td class="mono">保留 413 條 着→著</td></tr>
+  </table>
+  <div class="chips">
+    <span class="chip">等價類 1,950 → 1,946 字</span>
+    <span class="chip ok">產量不變（這四字在小說語料極少出現）</span>
+    <span class="chip ok">n1／textHash 完全未動 → 四庫既有 hash 未漂移</span>
+    <span class="chip warn">教訓：kSemanticVariant 只能當候選，逐條篩過才能當等價類</span>
+  </div>
+</div>
+
+<div class="two">
+  <div class="card">
+    <h2>書名解析三級 ＋ 別名表</h2>
+    <ul class="list">
+      <li><b>①同名</b> 6,215 條　<b>②切「書名‧篇名」</b> 2,480 條（字典把篇名寫進書名，《世説新語‧文學》《徐霞客遊記‧粤西遊日記一》——本輪最大單項增益）　<b>③別名表</b> 815 條</li>
+    </ul>
+    <table>
+      <tr><th>字典寫法</th><th>→ 庫內書名</th><th>書號</th></tr>
+      <tr><td>水滸傳</td><td>水滸<b>全</b>傳</td><td class="mono">bk019</td></tr>
+      <tr><td>石頭記</td><td>紅樓夢</td><td class="mono">bk006</td></tr>
+      <tr><td>聊齋志異／聊齋</td><td>聊齋<b>誌</b>異（本庫用「誌」）</td><td class="mono">bk090</td></tr>
+      <tr><td>封神榜／拍案驚奇</td><td>封神演義／初刻拍案驚奇</td><td class="mono">bk017／bk092</td></tr>
+      <tr><td>古今小說／列國志</td><td>喻世明言／東周列國志</td><td class="mono">bk093／bk020</td></tr>
+      <tr><td>俠女奇緣／嶽武穆王精忠傳</td><td>兒女英雄傳／說岳全傳</td><td class="mono">bk087／bk032</td></tr>
+      <tr><td>鏡花緣全傳／醒世恒言</td><td>鏡花緣／醒世恆言</td><td class="mono">bk086／bk096</td></tr>
+    </table>
+    <div class="chips"><span class="chip">別名照 <span class="mono">data/openlit-titles.tsv</span>（657 本實際書名）寫，不憑記憶</span></div>
+  </div>
+  <div class="card">
+    <h2>驗收（四項，全部從交付檔重算）</h2>
+    <ul class="list">
+      <li>① xout 目標字頭存在於 hydzd：<b>7,920 / 7,920</b>，textHash 亦全數相符</li>
+      <li>② xout 來源章 id 存在於本庫：<b>7,920 / 7,920</b></li>
+      <li>③ 引文重算仍在該章、span 起點復現：<b>7,920 / 7,920</b><br>
+        <span style="font-size:11.5px;color:var(--cap)">cite 用 n1；cite-var 用 n2（1,023 條）；cite-fuzzy 用視窗比例重算且需與記錄 confidence 相符（2,147 條）</span></li>
+      <li>④ xrev 三要素（srcDb・targetDb・targetPage 存在）：<b>7,920 / 7,920</b></li>
+    </ul>
+    <hr class="sp">
+    <div style="font-size:13px;line-height:1.75">
+      <b>樣例鏈路</b>：字典〈啊〉引「李貴忙喝道：‘你要死啊！’」<br>
+      <span class="mono" style="color:var(--sub)">→</span> 《紅樓夢》bk006「bk006/第九回訓劣子李貴承申飭嗔頑童茗煙鬧書房」
+    </div>
+    <div class="chips">
+      <span class="chip ok">結論：PASS</span>
+      <span class="chip ok">章 id 全庫唯一 23,460／23,460（修掉 401 種跨書撞名）</span>
+      <span class="chip">878 種書名進入連結</span>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>我無法替你宣稱已完成的四件事</h2>
+  <ul class="list">
+    <li><b>runtime 是否真的顯示</b>：母區目前只讀 <span class="mono">xrev</span>（不讀 <span class="mono">xout_*</span>）。資料層驗滿了，但「看得見」要在 accelon26 裡打開 <span class="mono">openlib.adb</span> 才算數。</li>
+    <li><b>xrev 的 srcVa 填 0</b>：母區 <span class="mono">addReverseFromXrev()</span> 用<b>宿主庫</b>的 bookVas 解釋 va，跨庫 va 沒有意義。不影響 <span class="mono">db?page</span> 命中，但反向面板「依書分組」的標籤可能不準。根治要等母區那 5 項改動（本專案未動 <span class="mono">adb-converter</span> 一字节）。</li>
+    <li><b>剩 1,548 條</b>在 80% 門檻之下；另有 26 條同書多處命中未硬鏈。要再上去只能放寬門檻（不建議）或改用<b>與字典同版本</b>的小說文本（70 回本 vs 120 回本那種）。</li>
+    <li><b>657 本的缺字點陣圖（794 張）尚未嵌入</b>，仍是文字佔位；這顆開關還在等你。</li>
+  </ul>
+  <div class="chips"><span class="chip">開關：<span class="mono">--min-han=2</span>（精確級門檻）　<span class="mono">--quote-min=8</span>（容忍級門檻）　<span class="mono">--fuzzy-min=0.8</span>　<span class="mono">--no-fuzzy</span>　<span class="mono">--no-variant</span></span></div>
+</div>
+
+<div class="card">
+  <h2>重現這組數字</h2>
+  <table>
+    <tr><th>步驟</th><th>指令</th><th>產物</th></tr>
+    <tr><td>建等價類 n2</td><td class="mono">bun run src/make-variant-table.ts</td><td class="mono">data/char-variant.tsv</td></tr>
+    <tr><td>建連結（三級）</td><td class="mono">bun run src/build-openlib-links.ts</td><td class="mono">out/xout_hydzd.jsonl、out/xrev.jsonl、out/openlib-cites.tsv、out/openlib-cites-report.txt</td></tr>
+    <tr><td>精度審查</td><td class="mono">bun run src/audit-variant-links.ts; bun run src/audit-fuzzy-links.ts; node src/list-short-links.mjs</td><td class="mono">out/audit-*.txt、out/short-links.txt</td></tr>
+    <tr><td>打包</td><td class="mono">bun run src/pack-openlib.ts</td><td class="mono">out/openlib.adb</td></tr>
+    <tr><td>驗收（可指定交付路徑）</td><td class="mono">bun run src/verify-openlib.ts D:\accelon3\openlib.adb</td><td class="mono">out/verify-openlib.txt</td></tr>
+  </table>
+</div>
+
+<div class="foot">
+  本頁所有數字取自本輪工具輸出的實測值（<span class="mono">out/openlib-cites-report.txt</span>、<span class="mono">out/verify-openlib.txt</span>、<span class="mono">out/pack-openlib.txt</span>、<span class="mono">out/audit-fuzzy-links.txt</span>、<span class="mono">out/short-links.txt</span>），非估算。<br>
+  說明文件：<span class="mono">docs/openlib-link-hydzd.md</span>　·　邊登記：<span class="mono">data/link-graph.tsv</span>　·　圖表需網路載入 Chart.js；離線時圖表區顯示取代訊息，文字與表格仍完整可讀。
+</div>
+
+</div>
+<script src="https://cdn.bootcdn.net/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script>
+if (window.Chart) {
+  const css = getComputedStyle(document.documentElement);
+  const v = (n) => css.getPropertyValue(n).trim();
+  const muted = v('--sub'), grid = v('--line');
+  const P = [v('--purple'), v('--teal'), v('--orange'), v('--pink'), v('--blue'), v('--yellow')];
+  const base = { responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: muted, font: { size: 11 } } } } };
+
+  new Chart(document.getElementById('funnel'), {
+    type: 'bar',
+    data: { labels: ['字典書證', '書名有配到', '引文可定位', '成為連結'],
+      datasets: [{ data: [238890, 9510, 9494, 7920],
+        backgroundColor: [P[4] + '77', P[1] + 'aa', P[0] + 'aa', P[2] + 'cc'], borderWidth: 0, borderRadius: 4 }] },
+    options: { ...base, indexAxis: 'y',
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: (c) => ' ' + c.parsed.x.toLocaleString() + ' 條' } } },
+      scales: { x: { type: 'logarithmic',
+          ticks: { color: muted, font: { size: 11 },
+            callback: (val) => [100, 1000, 10000, 100000, 1000000].includes(val) ? val.toLocaleString() : null },
+          grid: { color: grid } },
+        y: { ticks: { color: muted, font: { size: 11 } }, grid: { display: false } } } }
+  });
+
+  new Chart(document.getElementById('tiers'), {
+    type: 'doughnut',
+    data: { labels: ['cite 逐字級 4,750', 'cite-var 語義異體 1,023', 'cite-fuzzy 80% 容忍 2,147'],
+      datasets: [{ data: [4750, 1023, 2147], backgroundColor: [P[0] + 'cc', P[1] + 'cc', P[2] + 'cc'], borderWidth: 0 }] },
+    options: { ...base, cutout: '62%',
+      plugins: { legend: { position: 'bottom', labels: { color: muted, font: { size: 11 }, padding: 10 } } } }
+  });
+
+  new Chart(document.getElementById('scores'), {
+    type: 'line',
+    data: { labels: ['80-82','82-84','84-86','86-88','88-90','90-92','92-94','94-96','96-98','98-100'],
+      datasets: [{ data: [132,62,130,179,152,339,428,445,198,7],
+        borderColor: P[2], backgroundColor: P[2] + '22', borderWidth: 2, tension: 0.35,
+        fill: true, pointRadius: 3, pointBackgroundColor: P[2] }] },
+    options: { ...base, plugins: { legend: { display: false },
+      tooltip: { callbacks: { label: (c) => ' ' + c.parsed.y.toLocaleString() + ' 條' } } },
+      scales: { x: { title: { display: true, text: '相似度（%）', color: muted, font: { size: 11 } },
+                     ticks: { color: muted, font: { size: 10 } }, grid: { display: false } },
+                y: { title: { display: true, text: '條數', color: muted, font: { size: 11 } },
+                     ticks: { color: muted, font: { size: 11 } }, grid: { color: grid } } } }
+  });
+} else {
+  document.querySelectorAll('canvas').forEach((c) => {
+    const d = document.createElement('div');
+    d.style.cssText = 'font-size:12px;color:var(--cap);padding:12px;border:1px dashed var(--line);border-radius:8px';
+    d.textContent = '（離線：圖表需要 Chart.js；數據見本頁文字與表格）';
+    c.replaceWith(d);
+  });
+}
+</script>
+</body>
+</html>

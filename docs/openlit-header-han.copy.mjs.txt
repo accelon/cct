@@ -1,0 +1,6 @@
+const h = (s) => s.replace(/[^\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]/g, "");
+const a = "<集>開文庫小說</集>";
+const b = '<隱><樹 s="*" t="書">目錄</樹></隱>';
+console.log(`集行 ${h(a).length} 個汉字 = [${h(a)}]`);
+console.log(`隱樹行 ${h(b).length} 個汉字 = [${h(b)}]`);
+console.log(`打包頭合計 = ${h(a).length + h(b).length}`);

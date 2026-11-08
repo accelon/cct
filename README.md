@@ -14,6 +14,14 @@
 
 詳細 work／edition 見 [`works.tsv`](works.tsv)。新書先登記，再寫 builder。
 
+## 原始語料（raw/）
+
+2026-11-06 已從 **zh.wikisource.org**（CC BY-SA 4.0）抓入 15 個高頻引用目標 work
+（史記＋三家註、漢書、後漢書、三國志、文選、國語、戰國策、莊子、老子王弼本、
+荀子、韓非子、淮南子、呂氏春秋、論衡），共 957 頁 wikitext＋manifest。
+選書依據與各本底本／坑見 [`raw/README.md`](raw/README.md)；
+抓取腳本 [`src/fetch-wikisource.py`](src/fetch-wikisource.py)（斷點續抓）。
+
 ## 目錄
 
 ```text
@@ -30,6 +38,25 @@ docs/              steps／定址決策
 舊 `.git` 已改名為 `.git.legacy-20261106`，不當 canonical；舊 yijing 腳本移到
 `src/legacy/`，不是新管線。
 新 repo 從本 README／AGENTS 開始。
+
+## 現代語料（好讀，6.31 億字）
+
+`raw/haodoo/` 另有 4,163 本、118,450 章的二十世紀白話小說與散文（好讀網站，
+私人分析用途，**不發布、不散佈、不商用**）。它不建 adb，只做兩件事：
+
+1. **字典引文的字元級回定位**：8,546 條 xdhycd 現代引文拿到 `book?ch#a-b` 地址，
+   `out/haodoo-xout/` 200 桶 XOUT1，反解 8,546/8,546 PASS。
+   見 [`docs/xdhycd-coverage.md`](docs/xdhycd-coverage.md)。
+2. **詞語的歷時分佈**：作者生卒＋成書年建年代軸，99.5% 的 anchor 可掛年代，
+   逐十年出頻率與文類構成。見 [`docs/diachronic-axis.md`](docs/diachronic-axis.md)。
+
+```bash
+python src/locate-quotes-global.py    # 全庫引文回定位
+python src/build-haodoo-xout.py       # 生成 anchor manifest 與 xout
+python src/verify-xout-haodoo.py      # 反解驗證
+python src/build-era-axis.py          # 建年代軸
+python src/diachronic.py --author 巴金 小姐 同志   # 歷時查詢
+```
 
 ## 建置原則
 

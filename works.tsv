@@ -1,17 +1,32 @@
 work_id	adb	book	title	aliases	anchor	status	notes
-yijing	13j	周易	易	易|周易|易經	seg	planned	semantic segment; 章/乾
-shangshu	13j	尚書	尚書	尚書|書經	seg	planned	章/虞書→節/堯典；leaf 堯典
-shijing	13j	毛詩	詩經	詩經|毛詩|詩	seg	planned	章/國風→節/周南→項/關雎；leaf 關雎
-zhouli	13j	周禮	周禮	周禮	seg	planned	章/天官冢宰→節/大宰
-yili	13j	儀禮	儀禮	儀禮	seg	planned	章/士冠禮
-liji	13j	禮記	禮記	禮記	seg	planned	章/曲禮上
-zuozhuan	13j	左傳	春秋左傳	春秋左傳|左傳	seg	planned	章/隱公→節/經元年；撞名才加祖先
-gongyang	13j	公羊傳	春秋公羊傳	春秋公羊傳|公羊傳	seg	planned	章/隱公→節/元年
-guliang	13j	穀梁傳	春秋穀梁傳	春秋穀梁傳|穀梁傳	seg	planned	章/隱公→節/元年
-lunyu	13j	論語	論語	論語	seg	planned	章/學而
-xiaojing	13j	孝經	孝經	孝經	seg	planned	章/開宗明義章
-erya	13j	爾雅	爾雅	爾雅	seg	planned	章/釋詁→節/釋詁上
-mengzi	13j	孟子	孟子	孟子	seg	planned	章/梁惠王上
+yijing	jing	周易	易	易|周易|易經	seg	planned	semantic segment; 章/乾
+shangshu	jing	尚書	尚書	尚書|書經	seg	planned	章/虞書→節/堯典；leaf 堯典
+shijing	jing	毛詩	詩經	詩經|毛詩|詩	seg	planned	章/國風→節/周南→項/關雎；leaf 關雎
+zhouli	jing	周禮	周禮	周禮	seg	planned	章/天官冢宰→節/大宰
+yili	jing	儀禮	儀禮	儀禮	seg	planned	章/士冠禮
+liji	jing	禮記	禮記	禮記	seg	planned	章/曲禮上
+zuozhuan	jing	左傳	春秋左傳	春秋左傳|左傳	seg	planned	章/隱公→節/經元年；撞名才加祖先
+gongyang	jing	公羊傳	春秋公羊傳	春秋公羊傳|公羊傳	seg	planned	章/隱公→節/元年
+guliang	jing	穀梁傳	春秋穀梁傳	春秋穀梁傳|穀梁傳	seg	planned	章/隱公→節/元年
+lunyu	jing	論語	論語	論語	seg	planned	章/學而
+xiaojing	jing	孝經	孝經	孝經	seg	planned	章/開宗明義章
+erya	jing	爾雅	爾雅	爾雅	seg	planned	章/釋詁→節/釋詁上
+mengzi	jing	孟子	孟子	孟子	seg	planned	章/梁惠王上
 shuowen	swjz	—	說文解字注	說文解字注|說文|段注	char	planned	章節版；char:w…
 shuowen	swjzz	—	說文解字注	說文解字注|說文|段注	char	planned	卷字版；char:w…
 shuowen	swjzzp	—	說文解字注	說文解字注|說文|段注	char	planned	P 版；char:w…
+shiji	shiji	史記	史記	史記|太史公書|太史公記	seg	raw	Wikisource 卷001–130；四庫引文 26,564 次（第 4 名）
+shiji	shiji3	—	史記三家註	史記三家註|三家註	seg	raw	裴駰集解／司馬貞索隱／張守節正義；另一 edition
+hanshu	hanshu	漢書	漢書	漢書|前漢書	seg	raw	卷001–100（部分分上／下）；四庫引文 32,265 次（第 1 名）
+houhanshu	houhanshu	後漢書	後漢書	後漢書	seg	raw	章懷太子注本；25,734 次（第 5 名）
+sanguozhi	sanguozhi	三國志	三國志	三國志	seg	raw	卷01–65；裴松之注內嵌；7,730 次
+wenxuan	wenxuan	文選	文選	文選|昭明文選	seg	raw	卷1–60；31,128 次（第 3 名）
+guoyu	cct	國語	國語	國語	seg	raw	卷1–21；8,765 次；→cct.adb 剎那文庫
+zhanguoce	cct	戰國策	戰國策	戰國策|國策	seg	raw	卷1–33；4,597 次；→cct.adb 剎那文庫
+zhuangzi	zhuangzi	莊子	莊子	莊子|南華經|南華真經	seg	raw	內7＋外15＋雜11 篇；10,925 次
+laozi	cct	老子	老子	老子|道德經|道德真經|五千言	seg	raw	王弼本 81 章（含王弼注）；1,482 次；→cct.adb 剎那文庫
+xunzi	cct	荀子	荀子	荀子|荀卿	seg	raw	32 篇＋序（楊倞注內嵌）；8,418 次；→cct.adb 剎那文庫
+hanfeizi	cct	韓非子	韓非子	韓非子|韓子	seg	raw	20 卷（篇）；5,250 次；→cct.adb 剎那文庫
+huainanzi	cct	淮南子	淮南子	淮南子|淮南|淮南鴻烈	seg	raw	21 篇；9,277 次；→cct.adb 剎那文庫
+lvshichunqiu	cct	呂氏春秋	呂氏春秋	呂氏春秋|呂覽	seg	raw	26 卷；6,296 次；→cct.adb 剎那文庫
+lunheng	cct	論衡	論衡	論衡	seg	raw	85 篇；3,798 次；→cct.adb 剎那文庫

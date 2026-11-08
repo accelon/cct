@@ -1,0 +1,22 @@
+src	link	quote_min	notes
+swjzz	shijing	8	段注引詩（含毛詩、國風、大小雅、二南）
+swjzz	shangshu	8	尚書（含書曰、典、誥）
+swjzz	yijing	8	易（含周易、彖、象）
+swjzz	zhouli	8	周禮（含周官）
+swjzz	liji	8	禮記（曲禮、檀弓、王制、祭統、內則、月令、學記、中庸、緇衣、曾子問）
+swjzz	zuozhuan	8	左傳（含左氏、春秋）
+swjzz	gongyang	8	公羊傳
+swjzz	guliang	8	穀梁傳（谷梁）
+swjzz	lunyu	8	論語
+swjzz	mengzi	8	孟子
+swjzz	xiaojing	8	孝經
+swjzz	erya	8	爾雅（段注慣例簡作「雅」）
+swjzz	yili	8	儀禮
+swjz	shijing	8	同上，另一 edition（同 work shuowen）
+swjz	erya	8	
+hydzd	shuowen	6	漢語大字典引說文（<例 t="説文">）
+hydzd	shijing	8	字典書證引十三經
+hydzd	zuozhuan	8	
+hydzd	mengzi	8	
+hydzd	lunyu	8	
+openlib	hydzd	8	漢語大字典書證引小說（xrev＋xout_hydzd 共 7,920 條：逐字級 4,750＋語義異體級 1,023＋80% 容忍級 2,147；精確級 ≥2 字、容忍級 ≥8 字；書名三級解析＝同名→切「書名‧篇名」→別名表）

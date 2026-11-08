@@ -1,0 +1,10 @@
+zip/
+*.zip
+lit
+*.ptk
+*.off
+*.txt
+bak/
+raw/
+out/
+*.adb
